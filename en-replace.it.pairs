@@ -19,7 +19,7 @@ Audio
 Audio
 
 Save & Quit
-Salvare
+Salva e Esci
 
 #### as in "go back to previous menu"
 Back
@@ -35,7 +35,7 @@ Snowfall
 Nevicata
 
 Effects
-effetti
+Effetti
 
 #### volume settings (sound as opposed to music)
 Sound
@@ -69,13 +69,13 @@ Solo sfondo
 
 #### eg "Fullscreen: On", "Autocomplete: Off"
 On
-Sopra
+On
 
 Off
-via
+Off
 
 Language
-linguaggio
+Linguaggio
 
 ### Tooltips
 #### main menu button at top-left
@@ -89,7 +89,7 @@ Decrease Speed
 Diminuisci velocità
 
 Increase Speed
-Aumentare la velocità
+Aumenta la velocità
 
 Message Archive
 Archivio messaggi
@@ -98,7 +98,7 @@ Decrease Code Execution Rate
 Riduci il tasso di esecuzione del codice
 
 Increase Code Execution Rate
-Aumentare il tasso di esecuzione del codice
+Aumenta il tasso di esecuzione del codice
 
 Load / Save new approach
 Carica / Salva un nuovo approccio
@@ -109,7 +109,7 @@ Reset
 
 #### start running the code
 Run
-Correre
+Esegui
 
 #### start running the code but immediately paused / debugging
 Run (paused)
@@ -117,11 +117,11 @@ Esegui (in pausa)
 
 #### code navigation when paused/debugging
 Step over
-Scavalcare
+Passa allo step successivo
 
 #### stop running code
 Stop
-Fermare
+Stop
 
 #### pause running code
 Pause
@@ -129,7 +129,7 @@ Pausa
 
 #### code navigation when paused/debugging
 Step forward
-Passo in avanti
+Avanti
 
 Delete name
 Elimina nome
@@ -141,7 +141,7 @@ Delete profile
 Elimina profilo
 
 Confirm delete
-Conferma cancellazione
+Conferma cancella
 
 ### Overlay tutorials
 Type commands here
@@ -151,10 +151,10 @@ Add the lines:
 Aggiungi le linee:
 
 Press play to run
-Premi play per correre
+Premi play per eseguire
 
 Modify the commands and \nre-run to reach the exit
-Modificare i comandi e \nri-eseguire per raggiungere l'uscita
+Modifica i comandi e \nri-eseguire per raggiungere l'uscita
 
 Press to exit level
 Premere per uscire dal livello
@@ -166,10 +166,10 @@ Your code will be re-run each stage,\nso a single solution must solve all.\nRetu
 Il tuo codice verrà rieseguito in ogni fase, \nquindi un'unica soluzione deve risolvere tutto. \nTorna alla prima fase
 
 Reach the first stage exit
-Raggiungere l'uscita del primo stadio
+Raggiungi l'uscita del primo livello
 
 Rework to reach all exits, remember\n code is re-run from the top at each stage
-Rilavorazione per raggiungere tutte le uscite, ricorda \nil codice viene ripetuto dall'alto in ogni fase
+Rielabora per raggiungere tutte le uscite, ricorda \nil codice viene ripetuto dall'alto in ogni fase
 
 Change game speed
 Cambia la velocità di gioco
@@ -207,14 +207,14 @@ Try using `else`
 Prova a usare `else`
 
 Press to run with execution paused
-Premere per correre con l'esecuzione sospesa
+Premi per eseguire con l'esecuzione in pausa
 
 Notice the current evaluation is highlighted
 Si noti che la valutazione corrente è evidenziata
 
 #### note: → char is converted into an icon and should always exist
 Press, or use keyboard →, to step forward to the next evaluation
-Premere, o usare la tastiera →, per avanzare alla valutazione successiva
+Premere, o usare la tastiera →, per raggiungere la valutazione successiva
 
 Level solutions can be\nsaved and loaded here
 Le soluzioni di livello possono essere salvate e caricate qui
